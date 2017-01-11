@@ -26,6 +26,10 @@ aside section {
     height: 90px;
 }
 
+.main-logo {
+    float: left;
+}
+
 figure {
   background-color:rgb(25,52,65);
   border: 2px solid rgb(209,219,189);
