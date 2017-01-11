@@ -47,3 +47,9 @@ nav ul li {
     float: left;
     margin-right: 2rem;
 }
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
