@@ -1,0 +1,38 @@
+/* Everything inside here is a comment. It is here to help with learning.
+* {
+    border: 1px solid red;
+}
+*/
+
+main, section, article, aside, footer, header, nav, hgroup {
+    display: block;
+}
+
+body {
+    background-color: rgb(25,52,65);
+    color: rgb(252,255,245);
+}
+
+header, article, aside {
+    background-color: rgb(62,96,111);
+}
+
+aside section {
+    background-color: rgb(145,170,157);
+}
+
+.main-logo img {
+    height: 90px;
+}
+
+figure {
+  background-color:rgb(25,52,65);
+  border: 2px solid rgb(209,219,189);
+  padding: 1rem;
+  width: 50%;
+}
+
+figure img {
+    max-width: 100%;
+    width: 100%;
+}
