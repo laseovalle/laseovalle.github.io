@@ -30,6 +30,7 @@ figure {
   border: 2px solid rgb(209,219,189);
   padding: 1rem;
   width: 50%;
+  float left;
 }
 
 figure img {
@@ -52,4 +53,16 @@ nav ul li {
     content: "";
     display: table;
     clear: both;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+    color: cadetblue;
+}
+
+aside a:visited {
+    color: purple;
 }
