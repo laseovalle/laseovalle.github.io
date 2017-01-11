@@ -30,7 +30,7 @@ figure {
   border: 2px solid rgb(209,219,189);
   padding: 1rem;
   width: 50%;
-  float left;
+  float: left;
 }
 
 figure img {
