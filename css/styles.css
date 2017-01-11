@@ -11,7 +11,7 @@ main, section, article, aside, footer, header, nav, hgroup {
 body {
     background-color: rgb(25,52,65);
     color: rgb(252,255,245);
-    font: 1em Helvetica, sans-serif;
+    font: 1em Courier, sans-serif;
 }
 
 header, article, aside {
