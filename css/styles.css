@@ -66,3 +66,8 @@ a:visited {
 aside a:visited {
     color: purple;
 }
+
+a:hover {
+    color: rgb(252,255,245);
+    text-decoration: underline;
+}
