@@ -119,4 +119,18 @@ main h1, aside h1 {
         float: left;
         margin-right: 1rem;
     }
+
+    aside {
+        width: 30%;
+        float: left;
+    }
+
+    .main-logo img {
+        height: 70px;
+    }
+
 }
+
+
+
+
