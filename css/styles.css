@@ -80,12 +80,7 @@ a:hover {
 
 
 
-.article-wrapper {
 
-    width: 60%;
-    margin-right: 4rem;
-  
-}
 
 main {
     width: 100%;
@@ -113,13 +108,19 @@ main h1, aside h1 {
 }
 
 @media screen and (min-width: 800px) {
-    main {
+
+     main {
         width: 68.5%;
         float: left;
         margin-right: 1rem;
         
     }
+      .article-wrapper {
 
+    width: 60%;
+    margin-right: 4rem;
+  
+}
     aside {
         width: 30%;
         float: left;
