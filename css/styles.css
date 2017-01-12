@@ -102,4 +102,7 @@ main h1, aside h1 {
         backgroud-color: white;
         color: black;
     }
+
+nav ul {
+    display: none;
 }
