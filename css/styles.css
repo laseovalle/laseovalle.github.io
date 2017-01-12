@@ -107,4 +107,8 @@ main h1, aside h1 {
         display: none;
     }
 
+    article h1 {
+        text-decoration: underline;
+    }
+
 }
