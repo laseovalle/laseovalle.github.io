@@ -131,6 +131,14 @@ main h1, aside h1 {
 
 }
 
+@media (min-resolution: 166dpi) and (min-width : 1600px) {
+
+    body {
+        max-width: 1600px;
+        font-size: 3rem;
+    }
+}
+
 
 
 
