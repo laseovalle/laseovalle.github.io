@@ -112,3 +112,11 @@ main h1, aside h1 {
     }
 
 }
+
+@media screen and (min-width: 800px) {
+    main {
+        width: 68.5%;
+        float: left;
+        margin-right: 1rem;
+    }
+}
